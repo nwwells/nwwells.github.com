@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : learning
 tags : [intro, beginner, jekyll, tutorial]
 ---
 
